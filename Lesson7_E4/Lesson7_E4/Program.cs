@@ -11,7 +11,7 @@ namespace Lesson7_E4
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new POS2_FunctionForm());
+            Application.Run(new POS1_FunctionForm());
         }
     }
 }

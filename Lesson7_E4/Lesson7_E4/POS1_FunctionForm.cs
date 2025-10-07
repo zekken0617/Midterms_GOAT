@@ -205,6 +205,10 @@ namespace Lesson7_E4
 
         private void button3_Click(object sender, EventArgs e)
         {
+            radioButton1.Checked = false;
+            radioButton2.Checked = false;
+            radioButton3.Checked = false;
+            radioButton4.Checked = false;
             itemnametb.Clear();
             pricetb.Clear();
             quantitytb.Clear();
@@ -213,12 +217,22 @@ namespace Lesson7_E4
             discount_totaltb.Clear();
             discounted_totaltb.Clear();
             qty_totaltb.Clear();
-            richTextBox1.Clear();
+            richTextBox1.Text = "0.00";
             changetb.Clear();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            
+            radioButton1.Checked = false;
+            radioButton2.Checked = false;
+            radioButton3.Checked = false;
+            radioButton4.Checked = false;
+            radioButton1.Enabled = true;
+            radioButton2.Enabled = true;
+            radioButton3.Enabled = true;
+            radioButton4.Enabled = true;
+
             itemnametb.Clear();
             pricetb.Clear();
             quantitytb.Clear();
@@ -227,7 +241,7 @@ namespace Lesson7_E4
             discount_totaltb.Clear();
             discounted_totaltb.Clear();
             qty_totaltb.Clear();
-            richTextBox1.Clear();
+            richTextBox1.Text = "0.00";
             changetb.Clear();
 
 
