@@ -14,3 +14,21 @@ C:\Users\User\Desktop\4th_year\DSAL01E\MIDTERMS\ok so\Lesson7_E4\Lesson7_E4\obj\
 C:\Users\User\Desktop\4th_year\DSAL01E\MIDTERMS\ok so\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.pdb
 C:\Users\User\Desktop\4th_year\DSAL01E\MIDTERMS\ok so\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.genruntimeconfig.cache
 C:\Users\User\Desktop\4th_year\DSAL01E\MIDTERMS\ok so\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\ref\Lesson7_E4.dll
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\bin\Debug\net8.0-windows\Lesson7_E4.exe
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\bin\Debug\net8.0-windows\Lesson7_E4.deps.json
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\bin\Debug\net8.0-windows\Lesson7_E4.runtimeconfig.json
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\bin\Debug\net8.0-windows\Lesson7_E4.dll
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\bin\Debug\net8.0-windows\Lesson7_E4.pdb
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.csproj.GenerateResource.cache
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.AssemblyInfoInputs.cache
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.AssemblyInfo.cs
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.csproj.CoreCompileInputs.cache
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.sourcelink.json
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.dll
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\refint\Lesson7_E4.dll
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.pdb
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.genruntimeconfig.cache
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\ref\Lesson7_E4.dll
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.POS1_FunctionForm.resources
+C:\Users\C203-10\source\repos\zekken0617\Midterms_GOAT\Lesson7_E4\Lesson7_E4\obj\Debug\net8.0-windows\Lesson7_E4.POS2_FunctionForm.resources
